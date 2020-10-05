@@ -24,5 +24,5 @@ def cnn_cnn_merge(max_length=42, vocab_size=5459):
     return model
 
 
-model_ = cnn_cnn_merge(42, 5459)
-model_.summary()
+# model_ = cnn_cnn_merge(42, 5459)
+# model_.summary()

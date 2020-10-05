@@ -27,5 +27,5 @@ def cnn_bi_lstm_inject(max_length=42, vocab_size=5459):
     return model
 
 
-model_ = cnn_bi_lstm_inject(42, 5459)
-model_.summary()
+# model_ = cnn_bi_lstm_inject(42, 5459)
+# model_.summary()
